@@ -12,6 +12,16 @@ This file represents the initial placeholder for the primary feature screen.
 - Primary action button
 - Back navigation
 
+## Interaction Flow Definition
+
+1. User enters Feature Screen from Home Screen.
+2. Feature content is displayed.
+3. User may:
+    - Trigger primary action (placeholder logic)
+    - Return to Home Screen via navigation option
+
+This flow will guide implementation of screen state transmission.
+
 ## Planned Elements
 - Feature header/title
 - Primary content section
