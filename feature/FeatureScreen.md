@@ -20,7 +20,7 @@ This file represents the initial placeholder for the primary feature screen.
     - Trigger primary action (placeholder logic)
     - Return to Home Screen via navigation option
 
-This flow will guide implementation of screen state transmission.
+This flow will guide implementation of screen state transitions.
 
 ## Planned Elements
 - Feature header/title
